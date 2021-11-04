@@ -1,0 +1,5 @@
+LIBRARY Project2.dll
+
+EXPORTS 
+	Add 
+	Min
